@@ -25,6 +25,8 @@
 
 Esse projeto foi feito utilizando como principal linguagem, Javascript. Portanto, através dele utilizei dos melhores metódos e estruturas. Somado a isso, como marcação utilizei HTML juntamente com as melhores práticas de semântica, para estilização, nesse projeto adotei o CSS puro e objetivo visto que tomei como foco principal as funcionalidades do projeto acima da estilização, mas busquei utilizarme de boas práticas e metódos. Durante o processo de criação vi que a vaga tinha sido retirada do linkedin, por medo de não dar tempo de realizar o envio acabei não concluindo todas as etapas, ficando faltando a etapa de filtragem de ordenação por preço.
 
+Acesse o processo na hospedagem: https://cadastro-produtos-ivory.vercel.app/
+
 ---
 
 Feito com :purple_heart: by [Marcos Barcelos](https://marcosbarcelos.github.io/Portfolio/) :wave:
